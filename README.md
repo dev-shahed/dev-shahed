@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-shahed
-- 👀 I’m interested in Devlopment..
-- 🌱 I’m currently learning C.
+- 👀 I’m interested in Software development.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
