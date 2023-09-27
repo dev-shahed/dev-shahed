@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on open source.
-- 📫 How to reach me connect [Linkedin]([https://pages.github.com/](https://www.linkedin.com/in/mohammad-shahed/))
+- 📫 How to reach me connect [Linkedin]([https://www.linkedin.com/in/mohammad-shahed/])
 
 <!---
 dev-shahed/dev-shahed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
