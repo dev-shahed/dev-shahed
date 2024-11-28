@@ -18,6 +18,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-shahed.dev-shahed&"  />
 </div>
 
+<a href="https://app.daily.dev/shahed67"><img src="https://api.daily.dev/devcards/v2/ia0Rq0bLbbpBbx1vuc5ci.png?r=z65&type=default" width="356" alt="Shahed's Dev Card"/></a>
+
 ###
 
 <h1 align="center">hey there 👋</h1>
