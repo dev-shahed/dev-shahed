@@ -24,9 +24,11 @@
 
 <h3 align="center">👩‍💻 About Me</h3>
 
+<div align="center">
  <a href="https://app.daily.dev/shahed67">
     <img src="https://api.daily.dev/devcards/v2/ia0Rq0bLbbpBbx1vuc5ci.png?r=z65&type=default" width="356" alt="Shahed's Dev Card" />
   </a>
+</div>
 
 <p align="center">
   I'm Shahed from Bangladesh.<br><br>
