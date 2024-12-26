@@ -26,7 +26,7 @@
 <p align="center">
   I'm Shahed from Bangladesh.<br><br>
   - 🔭 I’m a full-time learner<br>
-  - 📚 I'm currently learning Software Development<br>
+  - 📚 I'm currently work on Software Development<br>
   - ⚡ In my free time, I make music.
 </p>
 
