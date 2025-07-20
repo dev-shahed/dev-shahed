@@ -18,7 +18,9 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<div align="center">
+  <img width="961" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/ef337cfd-9c44-4b2b-a7aa-3e962febaecd" />
+</div>
 
 ###
 
