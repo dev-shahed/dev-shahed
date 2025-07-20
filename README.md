@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img width="961" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/ef337cfd-9c44-4b2b-a7aa-3e962febaecd" />
+  <img width="961" height="200" alt="github-header-image (2)" src="https://github.com/user-attachments/assets/caf17aaa-5f49-45f3-abeb-21a832e5b9c1" />
 </div>
 
 ###
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="center">🛠 Languages and Tools</h3>
+<h3 align="center>Languages and Tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
