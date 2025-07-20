@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /> 
   <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="playwright logo" />  
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Agile_Project_Management_icon.png" height="40" alt="agile logo" />  
+  <img src="https://png.pngtree.com/png-vector/20221030/ourmid/pngtree-agile-vector-png-image_6403840.png" height="40" alt="agile logo" />  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
