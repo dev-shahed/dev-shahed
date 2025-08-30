@@ -3,38 +3,26 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
   <a href="https://x.com/shahedthedev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-shahed.dev-shahed" alt="visitor badge" />
-</div>
-
-###
-
-<div align="center">
-  <img width="961" height="200" alt="github-header-image (2)" src="https://github.com/user-attachments/assets/caf17aaa-5f49-45f3-abeb-21a832e5b9c1" />
-</div>
-
-###
-
-<h3 align="center">👩‍💻 About Me</h3>
+<h3 align="center">👨‍💻 About Me</h3>
 <p align="center">
-  I'm Shahed from Bangladesh.<br><br>
-  - 🔭 I’m a full-time learner<br>
-  - 📚 I'm currently work on Software Development<br>
-  - ⚡ In my free time, I make music.
+  I'm <b>Shahed</b> from Bangladesh.<br><br>
+  🔭 Full-time learner & explorer of technology<br>
+  📚 Currently working in <b>Software Development & QA</b><br>
+  ⚡ In my free time, I enjoy making music 🎶
 </p>
 
-###
+---
 
-<h3 align="center>Languages and Tools</h3>
+<h3 align="center">🛠️ Languages & Tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -48,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /> 
+  <img width="12" />
   <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="playwright logo" />  
   <img width="12" />
   <img src="https://png.pngtree.com/png-vector/20221030/ourmid/pngtree-agile-vector-png-image_6403840.png" height="40" alt="agile logo" />  
@@ -61,10 +50,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
 </div>
 
-###
+---
 
-<h3 align="center">🔥 My Stats :</h3>
+<h3 align="center">🚀 Open Source Contributions</h3>
+
+<p align="center">
+  <b>Playwright (Microsoft)</b> – Official Contributor 🎉 <br>
+  ✔️ My <a href="https://github.com/microsoft/playwright/pull/37184">Pull Request #37184</a> was merged into the official repository.
+</p>
+
+---
+
+<h3 align="center">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dev-shahed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=dev-shahed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
