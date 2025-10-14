@@ -52,9 +52,10 @@
 ---
 
 ### 🚀 Open Source Street Cred
-<p align="center">
-  🏴‍☠️ <b>Playwright (Microsoft)</b> – Official Contributor 🎉 <br>
-  ⚡ My <a href="https://github.com/microsoft/playwright/pull/37184">Pull Request #37184</a> got merged into the core repo.  
+<p align="center"> 
+  🏴‍☠️ <b>Playwright (Microsoft)</b> – Official Contributor 🎉 <br> ⚡ My <a href="https://github.com/microsoft/playwright/pull/37184">Pull Request #37184</a> got merged into the core repo. 
+  <br><br> 
+  🦄 <b>Strapi</b> – Open Source Contributor 💫 <br> ⚡ My <a href="https://github.com/strapi/strapi/pull/24566">Pull Request #24566</a> got merged into the core repo. 
 </p>
 
 ---
