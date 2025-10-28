@@ -61,8 +61,10 @@
   <br><br>
   🪶 <b>Sentry</b> – Open Source Contributor 🚀 <br>
   ⚡ My <a href="https://github.com/getsentry/sentry/pull/101452">Pull Request #101452</a> got merged into the core repo.
+  <br><br>
+  💻 <b>Hackathon Starter</b> – Open Source Contributor 🌟 <br>
+  ⚡ My <a href="https://github.com/sahat/hackathon-starter/pull/1469">Pull Request #1469</a> got merged into the core repo.
 </p>
-
 
 ---
 
