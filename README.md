@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  [![An image of @devshahed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devshahed)](https://holopin.io/@devshahed)
+   [![An image of @devshahed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devshahed)](https://holopin.io/@devshahed)
 </div>
 
 ---
