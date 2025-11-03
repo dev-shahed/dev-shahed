@@ -1,3 +1,4 @@
+[![An image of @devshahed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devshahed)](https://holopin.io/@devshahed)
 <!-- Profile Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammad-shahed/" target="_blank">
