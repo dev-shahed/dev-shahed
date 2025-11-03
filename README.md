@@ -9,6 +9,7 @@
   <a href="https://www.youtube.com/" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="28" />
   </a>
+  [![An image of @devshahed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devshahed)](https://holopin.io/@devshahed)
 </div>
 
 ---
