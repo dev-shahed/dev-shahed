@@ -54,8 +54,8 @@
 
 ### 🚀 Open Source Street Cred
 <p align="center"> 
-  🏆 <b>WooCommerce (Automattic)</b>  
-  🔗 <a href="https://github.com/woocommerce/woocommerce/pull/62974">Merged PR #62974</a> — production impact at global eCommerce scale  
+  🏆 <b>WooCommerce (Automattic)</b> <br>
+  ⚡ My <a href="https://github.com/woocommerce/woocommerce/pull/62974">Merged PR #62974</a> — production impact at global eCommerce scale  
   <br><br>
   🏴‍☠️ <b>Playwright (Microsoft)</b> – Official Contributor 🎉 <br> 
   ⚡ My <a href="https://github.com/microsoft/playwright/pull/37184">Pull Request #37184</a> got merged into the core repo. 
