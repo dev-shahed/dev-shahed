@@ -1,91 +1,145 @@
-[![An image of @devshahed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devshahed)](https://holopin.io/@devshahed)
-<!-- Profile Badges -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohammad-shahed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+<!-- ================= HERO ================= -->
+
+<p align="center">
+  <a href="https://holopin.io/@devshahed">
+    <img src="https://holopin.me/devshahed" height="140"/>
   </a>
-  <a href="https://x.com/shahedthedev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="28" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-shahed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="28" />
+  <a href="https://x.com/shahedthedev">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  
-# ⚡ Hey, I'm Shahed ⚡  
-🔥 Software Development Engineer in Test (SDET) | 🕹️ Code Punk  
-
-<i>"If it ain’t tested, it ain’t trusted."</i>  
-
-</div>
-
----
-
-### 🦾 About Me
-- 🌍 From **Bangladesh** with a bold dev-test mindset.  
-- 🚀 Working as a **Software Development Engineer in Test (SDET)**.  
-- 🛠️ Building, breaking, and automating — from **manual to advanced test automation**.  
-- 🧨 Motto: *“Quality isn’t an afterthought — it’s engineered.”*  
-
----
-
-### 🎨 Tech Playground
-<div align="center">
-  
-💻 **Languages & Tools I Jam With:**  
-<br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" />
-<img src="https://playwright.dev/img/playwright-logo.svg" height="45" alt="playwright" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="45" alt="docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" alt="wordpress" />
-</div>
-
----
-
-### 🚀 Open Source Street Cred
-<p align="center"> 
-  🏆 <b>WooCommerce (Automattic)</b> <br>
-  ⚡ <a href="https://github.com/woocommerce/woocommerce/pull/62974">Merged PR #62974</a> — production impact at global eCommerce scale  
-  <br><br>
-  🏴‍☠️ <b>Playwright (Microsoft)</b> – Official Contributor 🎉 <br> 
-  ⚡ My <a href="https://github.com/microsoft/playwright/pull/37184">Pull Request #37184</a> got merged into the core repo. 
-  <br><br> 
-  🦄 <b>Strapi</b> – Open Source Contributor 💫 <br> 
-  ⚡ My <a href="https://github.com/strapi/strapi/pull/24566">Pull Request #24566</a> got merged into the core repo. 
-  <br><br>
-  🪶 <b>Sentry</b> – Open Source Contributor 🚀 <br>
-  ⚡ My <a href="https://github.com/getsentry/sentry/pull/101452">Pull Request #101452</a> got merged into the core repo.
-  <br><br>
-  💻 <b>Hackathon Starter</b> – Open Source Contributor 🌟 <br>
-  ⚡ My <a href="https://github.com/sahat/hackathon-starter/pull/1469">Pull Request #1469</a> got merged into the core repo.
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<div align="center">
-  
-![LeetCode Stats](https://leetcode-stats-fast.vercel.app/?username=shahedthedev&site=us&theme=nord)
+# ⚡ Mohammad Shahed  
+### 🧪 Software Development Engineer in Test (SDET)
 
-</div>
+<p align="center">
+  <b>Automation • Reliability • Scalable Quality Engineering</b>
+</p>
+
+<p align="center">
+  <i>I don’t test features — I validate systems at scale.</i>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com?user=dev-shahed&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D" height="200" alt="streak graph"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=dev-shahed&show_icons=true&theme=radical&hide_border=true" height="200" alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shahed&layout=compact&theme=radical&hide_border=true" height="200" alt="top langs graph"/>
+## 🚀 What I Actually Do
 
-</div>
+```diff
++ Design automation frameworks that don’t break under scale
++ Turn flaky tests into deterministic pipelines
++ Catch production-grade bugs before they exist
+```
+
+- 🧪 Build **end-to-end + API + integration testing systems**
+- ⚙️ Engineer **CI/CD-ready automation pipelines**
+- 🔍 Focus on **performance, reliability, and edge cases**
+- 🧨 Reduce risk → increase release confidence
+
+---
+
+## 🧠 Tech Stack (Battle-Tested)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,postgres,mongodb,docker" />
+</p>
+
+<p align="center">
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="55"/>
+</p>
+
+<p align="center">
+  <b>Automation:</b> Playwright • API Testing • CI/CD  
+</p>
+
+---
+
+## 🏆 Open Source — Proven Impact
+
+> Not hobby contributions. These are merged into real production systems.
+
+- 🏆 WooCommerce (Automattic)  
+  ⚡ https://github.com/woocommerce/woocommerce/pull/62974  
+
+- 🏴‍☠️ Playwright (Microsoft) — Official Contributor  
+  ⚡ https://github.com/microsoft/playwright/pull/37184  
+
+- 🦄 Strapi  
+  ⚡ https://github.com/strapi/strapi/pull/24566  
+
+- 🪶 Sentry  
+  ⚡ https://github.com/getsentry/sentry/pull/101452  
+
+- 💻 Hackathon Starter  
+  ⚡ https://github.com/sahat/hackathon-starter/pull/1469  
+
+---
+
+## 📊 Engineering Signals
+
+<p align="center">
+  <img src="https://leetcode-stats-fast.vercel.app/?username=shahedthedev&theme=nord" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dev-shahed&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-shahed&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shahed&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+```bash
+test == safety net ❌
+test == production defense system ✅
+
+manual testing scales ❌
+automation scales ✅
+
+confidence comes from coverage ❌
+confidence comes from reliability ✅
+```
+
+---
+
+## 🎯 Current Focus
+
+- 🧪 Advanced Playwright automation at scale  
+- ⚙️ CI/CD test orchestration  
+- 🔥 Flaky test elimination strategies  
+- 📈 System reliability engineering mindset  
+
+---
+
+## 📬 Let’s Build Something Solid
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-shahed/">
+    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Final Signal
+
+```bash
+> shipping: reliable systems
+> mindset: break → fix → automate → scale
+> status: open to impactful engineering work
+```
