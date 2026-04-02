@@ -72,6 +72,14 @@
 
 ---
 
+<div align="center">
+  
+![LeetCode Stats](https://leetcode-stats-fast.vercel.app/?username=shahedthedev&site=us&theme=nord)
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 <div align="center">
   
